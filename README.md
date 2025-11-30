@@ -23,12 +23,12 @@ python main.py -p "C:\Users\KIIT\Desktop\UJJU\PROJECT\82" -k DigitalHealthIdPage
 
 - Search in a single file   
 `
-python main.py -p "C:\Users\KIIT\Desktop\UJJU\PROJECT\82\frontend\HealthPage.jsx" -k DigitalHealthIdPage
+python main.py -p "C:\Users\KIIT\Desktop\UJJU\PROJECT\82\frontend\HealthPage.jsx" -k "import DigitalHealthIdPage"
 `
 
 - Restrict search to specific extensions  
 `
-python main.py -p "C:\Users\KIIT\Desktop\UJJU\PROJECT\82" -ext .py .js .tsx .jsx -k DigitalHealthIdPage
+python main.py -p "C:\Users\KIIT\Desktop\UJJU\PROJECT\82" -ext .py .js .tsx .jsx -k "DigitalHealthIdPage"
 `
 
 ## Example output
