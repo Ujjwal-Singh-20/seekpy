@@ -21,7 +21,7 @@ python main.py --help
 python main.py -p "C:\Users\KIIT\Desktop\UJJU\PROJECT\82" -k DigitalHealthIdPage
 `
 
--Search in a single file   
+- Search in a single file   
 `
 python main.py -p "C:\Users\KIIT\Desktop\UJJU\PROJECT\82\frontend\HealthPage.jsx" -k DigitalHealthIdPage
 `
